@@ -1,0 +1,4 @@
+﻿  Test_2.cpp
+c:\users\ivan vasilev\source\repos\test_2\test_2\test_2.cpp(456): warning C4101: 'left': unreferenced local variable
+c:\users\ivan vasilev\source\repos\test_2\test_2\test_2.cpp(461): warning C4101: 'right': unreferenced local variable
+  Test_2.vcxproj -> C:\Users\Ivan Vasilev\source\repos\Test_2\Debug\Test_2.exe
